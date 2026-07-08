@@ -1,4 +1,6 @@
-<!doctype html>
+# Digital Credential Verifier
+A prototype built during my 1st semester for the Zignasa Hackathon. 
+This project explores the foundational logic behind verifying digital assets and credentials.
 <html lang="en">
     <head>
         <meta charset="utf-8" />
